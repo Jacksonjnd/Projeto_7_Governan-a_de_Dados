@@ -70,9 +70,3 @@ O guia é uma síntese didática e não substitui normas, avaliação jurídica 
 Sou **Jackson Nogueira Diniz**, profissional de Data Analytics, Business Intelligence e People Analytics, com mais de 15 anos de experiência em análise de negócios, planejamento, processos e indicadores. Minha trajetória inclui atuação em Operações, People e Finanças, com desenvolvimento de dashboards, análises investigativas, acompanhamento de resultados e materiais executivos para apoiar decisões.
 
 Este projeto reúne essa visão prática com meu interesse em aprofundar e compartilhar conhecimentos sobre governança e gestão de dados.
-
-**Conheça outros projetos:** [github.com/Jacksonjnd](https://github.com/Jacksonjnd)
-
----
-
-**Observação:** para que o botão de leitura funcione no GitHub, mantenha este README e o arquivo `Guia_Pratico_Governanca_de_Dados_Jackson_Diniz.pdf` na mesma pasta do repositório.
