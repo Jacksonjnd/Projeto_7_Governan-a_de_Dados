@@ -4,7 +4,6 @@
 
 **Autor:** Jackson Nogueira Diniz  
 **Formato:** PDF, 14 páginas  
-**Edição:** novembro de 2026
 
 [**📖 Acessar o guia completo em PDF**](./Guia_Pratico_Governanca_de_Dados_Jackson_Diniz.pdf)
 
